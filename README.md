@@ -3,9 +3,7 @@
 <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square&link=https://luen.tistory.com/"/></a>
 <br>
 
-### 💻 Skills
-
-Languages & Platforms
+### 💻 Languages & Platforms
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"><!-- Swift -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><!-- Java -->
@@ -16,8 +14,6 @@ Languages & Platforms
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
-
+<!--
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
-
-![NEULiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEULiee&show_icons=true&theme=Gradient)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)-->
