@@ -1,9 +1,13 @@
-### 👣 Blog
+
+<div align=center float=left width=50%>
+<h3>👣  Me</h3>
 
 <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square&link=https://luen.tistory.com/"/></a>
-<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
+</div>
 
-### 💻 Languages & Platforms
+<div align=center float=right width=50%>
+<h3>💻  Languages & Platforms</h3>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"><!-- Swift -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><!-- Java -->
@@ -12,8 +16,4 @@
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a><!-- Spring Boot -->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a><!-- Vue.js -->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-
-
-<!--
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)-->
+</div>
