@@ -2,8 +2,10 @@
 <div align=center float=left width=50%>
 <h3>👣  Me</h3>
 
-<img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square&link=https://luen.tistory.com/"/></a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
+<a href="https://luen.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square"/></a>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
 </div>
 
 <div align=center float=right width=50%>
