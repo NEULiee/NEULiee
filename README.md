@@ -1,9 +1,9 @@
 
 <div align=center float=left width=50%>
-<h3>👣  Me</h3>
+<h3>👣  늘이</h3>
 
 <a href="https://luen.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square"/></a> 
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
 </div>
