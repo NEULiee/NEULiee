@@ -1,9 +1,12 @@
 
 <div align=center float=left width=50%>
-<h3>👣  늘이</h3>
+  
+<img src="https://avatars.githubusercontent.com/u/39167842?v=4" width=30px height=30px /> 
+  
+<br>
 
 <a href="https://luen.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-7172B1?style=flat-square"/></a> 
+  <img src="https://img.shields.io/badge/Tistory-E34F1E?style=flat-square"/></a> 
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888)](https://solved.ac/asdfz888)
 </div>
